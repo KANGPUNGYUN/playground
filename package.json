@@ -1,18 +1,36 @@
 {
-  "name": "todo-list",
+  "name": "playground",
   "version": "0.1.0",
   "private": true,
+  "style": "./styles.css",
+  "files": [
+    "dist/**",
+    "styles.css"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:css": "postcss src/app/styles/index.css -o src/app/styles.css",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/colors": "^3.0.0",
+    "@radix-ui/react-direction": "^1.0.1",
     "@radix-ui/react-slot": "^1.0.2",
     "@radix-ui/react-tabs": "^1.0.4",
+    "@radix-ui/react-tooltip": "^1.0.7",
+    "autoprefixer": "^10.4.16",
     "classnames": "^2.3.2",
     "next": "^14.0.4",
+    "next-themes": "^0.2.1",
+    "postcss": "^8.4.32",
+    "postcss-cli": "^11.0.0",
+    "postcss-combine-duplicated-selectors": "^10.0.3",
+    "postcss-custom-media": "^10.0.2",
+    "postcss-discard-empty": "^6.0.0",
+    "postcss-import": "^15.1.0",
+    "postcss-nesting": "^12.0.1",
     "react": "^18",
     "react-dom": "^18"
   },

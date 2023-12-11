@@ -15,7 +15,7 @@ export * from "./text.props";
 // COMPONENTS
 //------------------------------------------------------------------------------
 export { Button } from "./button";
-export * from "./base-button.props";
+export * from "./button.props";
 export { Link } from "./link";
 export * from "./link.props";
 export { Tabs, TabsRoot, TabsList, TabsTrigger, TabsContent } from "./tabs";

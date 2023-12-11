@@ -10,7 +10,7 @@ import {
   //
   radixGetMatchingGrayScale,
 } from "./helpers/radix-colors";
-import type { GetPropDefTypes, PropDef } from "./helpers/props";
+import type { GetPropDefTypes, PropDef } from "./helpers";
 
 const appearances = ["inherit", "light", "dark"] as const;
 const accentColors = [...radixColorScales, "gray"] as const;
