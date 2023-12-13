@@ -8,6 +8,7 @@
 @import "./tokens/scaling.css";
 @import "./tokens/shadow.css";
 @import "./tokens/space.css";
+@import "./tokens/typography.css";
 
 @import "../components/box.css";
 @import "../components/button.css";
