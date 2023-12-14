@@ -24,11 +24,15 @@ My playground is a custom Radix theme. To understand how Radix-theme works, I di
 
 ### FrontEnd
 
-![Next.js](https://img.shields.io/badge/Next.js_13-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=PostCSS&logoColor=white)
+
+### Deploy
+
+![vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 화면 구성
 
