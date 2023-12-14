@@ -1,6 +1,6 @@
 # Playground
 
-> **Radix-theme를 뜯어고친 나만의 컴포넌트 모음집** <br/> **개발기간: 2023.12 ~ 진행중** <br/>
+> **[Radix-theme](https://github.com/radix-ui/themes)를 뜯어고친 나만의 컴포넌트 모음집** <br/> **개발기간: 2023.12 ~ 진행중** <br/>
 
 ## 배포 주소
 
