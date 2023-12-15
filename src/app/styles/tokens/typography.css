@@ -38,7 +38,7 @@
 
   /* default values */
 
-  --default-font-family: "Roboto", sans-serif;
+  --default-font-family: "Gluten", cursive;
   --default-font-size: var(
     --font-size-3
   ); /* Same size used for `<Text size="3">` */
